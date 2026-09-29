@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "slug": "coordinator-core",
-  "version": "0.22.34",
-  "package_url": "https://raw.githubusercontent.com/shiburnit-engine/coordinator-core-releases/main/releases/0.22.34/coordinator-core-wordpress-0.22.34.zip",
-  "package_sha256": "b905492710cb79b175e0bf45f1a88812331c689c4a749d7e7d3f0de520e2c735",
+  "version": "0.22.35",
+  "package_url": "https://raw.githubusercontent.com/shiburnit-engine/coordinator-core-releases/main/releases/0.22.35/coordinator-core-wordpress-0.22.35.zip",
+  "package_sha256": "e42171f8cdc93b2b4c9e9401b041e7bb71470c100a9ae7defddbd58cbb2a8b3e",
   "requires": "6.6",
   "requires_php": "8.1",
   "tested": "7.1.1",
-  "published_at": "2026-09-29T13:29:58Z",
-  "signature": "vl4iOUZ4JuItZJjmIVLOhQiSSNoQySYQoU9v9SpD77ncRye2GpmFmRYW9XHFy4snsIy8mkdIeGp5l7MaLt02Ag=="
+  "published_at": "2026-09-29T13:54:00Z",
+  "signature": "omCWNSczAklbwc5MPMOuJJv2SA5GFdUWjVi6uxO7/REC/4KaQkv840kgIXP+3jEtrWm2Wrmlmmnv/t24pbXBDw=="
 }
